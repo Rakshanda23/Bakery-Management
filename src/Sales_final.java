@@ -138,6 +138,12 @@ public class Sales_final extends JFrame {
 		getContentPane().add(panel_3, BorderLayout.CENTER);
 		panel_3.setLayout(new GridLayout(10, 2));
 		
+		// JPanel panel_3 = new JPanel();
+		// panel_3.setBackground(new Color(255, 204, 204));
+		// panel_3.setMaximumSize(new Dimension(50000, 32767));
+		// getContentPane().add(panel_3, BorderLayout.CENTER);
+		// panel_3.setLayout(new GridLayout(10, 2));
+
 		JPanel panel_23 = new JPanel();
 		panel_23.setBackground(new Color(255, 204, 204));
 		panel_3.add(panel_23);
