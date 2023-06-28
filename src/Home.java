@@ -125,3 +125,14 @@ public class Home {
 		panel_9.add(lblNewLabel_4);
 	}
 }
+
+// btnNewButton_1.setBackground(Color.WHITE);
+// 		panel_1.setLayout(null);
+// 		panel_1.add(btnNewButton_1);
+
+// 		JPanel panel_9 = new JPanel();
+// 		panel_9.setBackground(new Color(204, 255, 153));
+// 		frame.getContentPane().add(panel_9, BorderLayout.NORTH);
+// 		lblNewLabel_4.setFont(new Font("Lucida Calligraphy", Font.BOLD, 24));
+// 		panel_9.add(lblNewLabel_4);
+// just a commit
